@@ -447,3 +447,10 @@ footer .footer-below {
 .workshis h4 {
     font-family: ヒラギノ丸ゴ Pro","Hiragino Maru Gothic Pro;
 }
+ul.hobby {
+    list-style-type: none;
+    padding-left: 0px;
+}
+ul.hobby, li {
+    margin-bottom: 1em;
+}
